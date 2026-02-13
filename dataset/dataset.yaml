@@ -1,0 +1,12 @@
+train: C:/Users/diego/Desktop/plecostomus_project/dataset/train/images
+val: C:/Users/diego/Desktop/plecostomus_project/dataset/valid/images
+
+nc: 1
+names: ['pez_plecostomus']
+
+roboflow:
+  workspace: pez-plecostomus
+  project: etiquetado-de-pez-plecostomus
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pez-plecostomus/etiquetado-de-pez-plecostomus/dataset/1
